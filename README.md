@@ -30,7 +30,7 @@ In this research, we attempt to built a predictor for consumers’ satisfaction 
 * To determine mobile phones key features that influence smartphone purchases.
 * To advise the advertisement department in companies on these key features to use as selling points and to specific customer segments in upcoming advertisements.
 
-# Data Undersatnding
+# Data Understanding
 
 The data used for this project was scraped from amazon.com, an ecommerce platform that sells different products. It contains more than 17 thousand reviews of unlocked mobile phones sold on between the period 2014 to August 2022. The data has 7 features:
 
